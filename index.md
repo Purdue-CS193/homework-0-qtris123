@@ -14,9 +14,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdownney Junior is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for 
 
-  
-$HI  
-Call me if you get lost [links](https://www.facebook.com/profile.php?id=100009847247279) 
 
 ```markdown
 Syntax highlighted code block
